@@ -84,7 +84,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-HemaCharan = https://github.com/HemaCharan2025/Student-Performance-Prediction
+HemaCharan =https://github.com/HemaCharan2025/Student-Performance-Prediction
 
 
 ## Acknowledgements
