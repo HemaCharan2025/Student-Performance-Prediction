@@ -66,25 +66,6 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Open a web browser or the appropriate client to access the project.
   
 <br><br>
-### Option 2: Installation from DockerHub
-
-If you prefer to use Docker, you can install and run the project using a Docker container from DockerHub:
-
-1. **Pull the Docker Image**
-   - Open your terminal or command prompt.
-   - Run the following command to pull the Docker image from DockerHub:
-     ```
-     docker pull kalyan45/student-app
-     ```
-
-2. **Run the Docker Container**
-   - Start the Docker container by running the following command, and mapping any necessary ports:
-     ```
-     docker run -p 5000:5000 kalyan45/student-app
-     ```
-
-3. **Access the Project**
-   - Open a web browser or the appropriate client to access the project.
 
 
 ## Contributing
@@ -100,14 +81,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+HemaCharan = https://github.com/HemaCharan2025/Student-Performance-Prediction
 
 
 ## Acknowledgements
